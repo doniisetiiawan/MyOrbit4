@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0FB5E974-EE0B-4CF8-840B-025C763F266E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BC360A5-0A13-4163-86CE-77AEE2AA2E4D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyOrbit4/IntegrationFramework.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "navigateTo(urlScheme:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F205EECD-6047-4AEC-867D-DBC5E7444F0C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../mytelkomsel-superapp-framework-ios/MyTelkomselSuperappFramework/Classes/FrameworkCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "invoke(urlScheme:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "340DB593-A3DB-4024-AE3A-5E57E9700067"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../mytelkomsel-superapp-framework-ios/MyTelkomselSuperappFramework/Classes/FrameworkCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "invoke(urlScheme:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "340DB593-A3DB-4024-AE3A-5E57E9700067 - 951cfaa6e4742e9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTelkomselSuperappFramework.FrameworkCoordinator.invoke(urlScheme: Swift.String) -&gt; ()"
+                  moduleName = "MyOrbit4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doni/Documents/MyTsel/mytelkomsel-superapp-framework-ios/MyTelkomselSuperappFramework/Classes/FrameworkCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "263">
+               </Location>
+               <Location
+                  uuid = "340DB593-A3DB-4024-AE3A-5E57E9700067 - 951cfaa6e4742e9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTelkomselSuperappFramework.FrameworkCoordinator.invoke(urlScheme: Swift.String) -&gt; ()"
+                  moduleName = "MyOrbit4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doni/Documents/MyTsel/mytelkomsel-superapp-framework-ios/MyTelkomselSuperappFramework/Classes/FrameworkCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "270">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E52ABB1-2FD8-447C-8B80-2EA01DE81D8F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../mytelkomsel-superapp-framework-ios/MyTelkomselSuperappFramework/Classes/FrameworkCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "invoke(urlScheme:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E52ABB1-2FD8-447C-8B80-2EA01DE81D8F - 951cfaa6e4742e3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTelkomselSuperappFramework.FrameworkCoordinator.invoke(urlScheme: Swift.String) -&gt; ()"
+                  moduleName = "MyOrbit4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doni/Documents/MyTsel/mytelkomsel-superapp-framework-ios/MyTelkomselSuperappFramework/Classes/FrameworkCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1027">
+               </Location>
+               <Location
+                  uuid = "8E52ABB1-2FD8-447C-8B80-2EA01DE81D8F - 951cfaa6e4742e3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTelkomselSuperappFramework.FrameworkCoordinator.invoke(urlScheme: Swift.String) -&gt; ()"
+                  moduleName = "MyOrbit4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doni/Documents/MyTsel/mytelkomsel-superapp-framework-ios/MyTelkomselSuperappFramework/Classes/FrameworkCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1034">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA9B103B-2557-439F-B156-C234B1302C34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../mytelkomsel-superapp-framework-ios/MyTelkomselSuperappFramework/Classes/FrameworkCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "getClassType(route:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E70DA3B-820C-4E74-83CC-FB95058D7D79"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../mytelkomsel-superapp-framework-ios/MyTelkomselSuperappFramework/Classes/FrameworkCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "getClassType(route:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
